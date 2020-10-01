@@ -35,3 +35,5 @@ The `make` command also generates `output.html`, which is the HTML version of th
 _Note: In order to deploy these projects, you need to have SSH access to `adi-website`.  Ask Dan, Nate, Eunice, or Raymond for help setting this up._
 
 Run `make deploy` to deploy your curriculum.  The first time, it will ask for a path slug.  Give something **unique**!
+
+I Hope you will learn a lot through it. Happy learning.
